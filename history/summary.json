@@ -22,7 +22,7 @@
     "url": "https://mirrors.aliyun.com",
     "icon": "https://favicons.githubusercontent.com/mirrors.aliyun.com",
     "slug": "mirrors-aliyun-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 3921,
     "timeDay": 5629,
-    "timeWeek": 3783,
+    "timeWeek": 3787,
     "timeMonth": 3921,
     "timeYear": 3921,
     "dailyMinutesDown": {}
