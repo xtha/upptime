@@ -2,7 +2,7 @@
   {
     "name": "mirrors.yun-idc.com",
     "url": "http://mirrors.yun-idc.com",
-    "icon": "https://favicons.githubusercontent.com/mirrors.yun-idc.com",
+    "icon": "https://icons.duckduckgo.com/ip3/mirrors.yun-idc.com.ico",
     "slug": "mirrors-yun-idc-com",
     "status": "up",
     "uptime": "100.00%",
@@ -20,9 +20,9 @@
   {
     "name": "mirrors.aliyun.com",
     "url": "https://mirrors.aliyun.com",
-    "icon": "https://favicons.githubusercontent.com/mirrors.aliyun.com",
+    "icon": "https://icons.duckduckgo.com/ip3/mirrors.aliyun.com.ico",
     "slug": "mirrors-aliyun-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -38,7 +38,7 @@
   {
     "name": "Hacker News",
     "url": "https://news.ycombinator.com",
-    "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
+    "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
     "status": "up",
     "uptime": "100.00%",
@@ -56,7 +56,7 @@
   {
     "name": "Test Broken Site",
     "url": "https://thissitedoesnotexist.koj.co",
-    "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist.koj.co",
+    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
     "slug": "test-broken-site",
     "status": "down",
     "uptime": "100.00%",
