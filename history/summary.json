@@ -22,7 +22,7 @@
     "url": "https://mirrors.aliyun.com",
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.aliyun.com.ico",
     "slug": "mirrors-aliyun-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -31,7 +31,7 @@
     "time": 3605,
     "timeDay": 3013,
     "timeWeek": 2987,
-    "timeMonth": 3441,
+    "timeMonth": 3429,
     "timeYear": 3605,
     "dailyMinutesDown": {}
   },
